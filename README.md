@@ -29,7 +29,6 @@ Drop these into `~/.openclaw/workspace/skills/` and your agent can use them imme
 | Skill | What it does | Install |
 |-------|-------------|---------|
 | [openclaw-prd-writer](https://github.com/bkochavy/openclaw-prd-writer) | Turn a rough idea into a build-ready spec through structured conversation. Two approval gates. | `git clone ... ~/.openclaw/workspace/skills/openclaw-prd-writer` |
-| [openclaw-coding-loops](https://github.com/bkochavy/openclaw-coding-loops) | Run Codex/Claude Code in persistent tmux loops with retry, memory, and completion notification. | `git clone ... ~/.openclaw/workspace/skills/openclaw-coding-loops` |
 | [openclaw-deck](https://github.com/bkochavy/openclaw-deck) | Multi-column web UI — chat with multiple agents side by side in your browser. | `npx openclaw-deck` |
 
 ---
