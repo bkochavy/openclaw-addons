@@ -28,6 +28,8 @@ Drop these into `~/.openclaw/workspace/skills/` and your agent can use them imme
 
 | Skill | What it does | Install |
 |-------|-------------|---------|
+| [openclaw-build](https://github.com/bkochavy/openclaw-build) | Idea to shipped code. PRD interview → approved spec → Ralph coding loop (Codex or Claude Code). | `git clone ... ~/.openclaw/workspace/skills/openclaw-build` |
+| [openclaw-agent-dashboard](https://github.com/bkochavy/openclaw-agent-dashboard) | Browser dashboard showing all running tmux/Ralph coding sessions. Status, task progress, git info. | `node server.js` from skill dir |
 
 ---
 
