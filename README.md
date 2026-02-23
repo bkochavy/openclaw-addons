@@ -28,6 +28,7 @@ Drop these into `~/.openclaw/workspace/skills/` and your agent can use them imme
 
 | Skill | What it does | Install |
 |-------|-------------|---------|
+| [openclaw-tailserve](https://github.com/bkochavy/openclaw-tailserve) | Share files, directories, and local ports over Tailscale HTTPS. One command, verified URL, every time. | `npm install -g tailserve` |
 | [openclaw-build](https://github.com/bkochavy/openclaw-build) | Idea to shipped code. PRD interview → approved spec → Ralph coding loop (Codex or Claude Code). | `git clone ... ~/.openclaw/workspace/skills/openclaw-build` |
 | [openclaw-agent-dashboard](https://github.com/bkochavy/openclaw-agent-dashboard) | Browser dashboard showing all running tmux/Ralph coding sessions. Status, task progress, git info. | `node server.js` from skill dir |
 
