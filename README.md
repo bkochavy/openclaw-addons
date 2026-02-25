@@ -88,4 +88,4 @@ We're not trying to be exhaustive — we're trying to be trustworthy. Quality ov
 ## Related
 
 - [OpenClaw](https://github.com/openclaw/openclaw) — the platform these tools extend
-- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) — broader community skill list (19k+ stars, the definitive catalog)
+
